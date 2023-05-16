@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Image classification project.
+- 👯 I’m looking to collaborate on any Computer Vision projects.
+
 <!--
 **antirrabia/antirrabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
